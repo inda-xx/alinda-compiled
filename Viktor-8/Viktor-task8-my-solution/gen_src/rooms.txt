@@ -1,0 +1,13 @@
+Room;Hallway;You are standing in the hallway.
+Exit;Hallway;north;Living room
+Exit;Hallway;east;Kitchen
+Exit;Hallway;west;Bathroom
+Room;Living room;You are standing in the living room, there is a couch and a TV.
+Exit;Living room;south;Hallway
+Room;Basement;You are are standing in the basement, it's cold and damp.
+Exit;Basement;up;Hallway
+Room;Kitchen;You are standing in the kitchen, there is a sink, refrigerator, and a stove.
+Exit;Kitchen;west;Hallway
+Room;Bathroom;You are standing in the bathroom, it has a toilet, a shower, and a mirror.
+Exit;Bathroom;east;Hallway
+Key;Hallway;down;Basement;Kitchen

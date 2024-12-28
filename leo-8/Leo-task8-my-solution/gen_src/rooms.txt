@@ -1,0 +1,11 @@
+start;KTH Entréhallen, huvudbyggnad;5;5;north;E-huset;south;B-huset;east;D-huset;west;F-huset
+E-huset;Elektroteknikbyggnaden med labb och föreläsningssalar;4;4;south;start;east;K-huset
+B-huset;Bioteknik och kemi;3;3;north;start;east;Q-huset
+D-huset;Datalogi och datateknik;6;6;west;start;south;L-huset
+F-huset;Fysikbyggnaden med avancerade laboratorier;5;5;east;start;north;Alfa-huset
+K-huset;Kemi och kemiteknik med forskningslabb;4;4;west;E-huset;south;Q-huset
+Q-huset;Industriell teknik och management;3;3;west;B-huset;north;K-huset
+L-huset;Lärande med föreläsningssalar och gruppstudierum;4;4;north;D-huset;west;Alfa-huset
+Alfa-huset;KTH Alfa - Forskning och utveckling;5;5;south;F-huset;east;L-huset
+V-huset;Byggnaden för EXTA och andra examensrelaterade aktiviteter;4;4;south;Alfa-huset;west;K-huset
+Biblioteket;KTH:s bibliotek för studenter och forskning;5;5;east;L-huset;west;K-huset
